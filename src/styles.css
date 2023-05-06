@@ -1,0 +1,16 @@
+body {
+  font-size: 100%;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+select {
+  min-width: 80px;
+}
+
+input[type="radio"] {
+  font-size: 100%;
+}

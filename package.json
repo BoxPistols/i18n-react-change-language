@@ -1,0 +1,38 @@
+{
+  "name": "new-react-i18next-change-lang",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@mui/icons-material": "5.11.0",
+    "@mui/material": "5.11.5",
+    "asagiri": "0.1.1",
+    "i18next": "22.4.9",
+    "i18next-browser-languagedetector": "7.0.1",
+    "i18next-xhr-backend": "3.2.2",
+    "milligram": "1.4.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-i18next": "12.1.4",
+    "react-scripts": "5.0.1",
+    "typescript": "5.0.2"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
